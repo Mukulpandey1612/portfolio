@@ -2,10 +2,6 @@
 
 Welcome to my **personal portfolio website** built using HTML, CSS, and JavaScript. This website serves as a digital showcase of my skills, projects, certifications, and achievements as a B.Tech student passionate about Web Development, Data Analytics, and Cloud Computing.
 
-## 🔗 Live Website
-
-👉 https://mukulpandey-portfolio.netlify.app/
-📅 Last Updated: July 2025
 
 ---
 
