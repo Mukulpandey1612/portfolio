@@ -9,11 +9,11 @@ This site serves as a **digital resume** and a way to build my personal brand in
 
 The goal of this project is to design a **responsive and professional website** that highlights:
 
-- 👨‍💻 About Me (Introduction, Bio)  
-- 🛠️ Technical skills and interests  
-- 📂 Projects I have worked on  
-- 📜 Certifications and achievements  
-- 📞 Contact information  
+- About Me (Introduction, Bio)  
+- Technical skills and interests  
+- Projects I have worked on  
+- Certifications and achievements  
+- Contact information  
 
 This portfolio helps me stand out for **internship and job opportunities** by presenting my work in a modern, accessible way.
 
@@ -21,12 +21,12 @@ This portfolio helps me stand out for **internship and job opportunities** by pr
 
 ## Features
 
-- ✅ **Responsive Design** – Works on mobile, tablet, and desktop  
-- ✅ **Smooth Animations** – Clean scroll effects and transitions  
-- ✅ **Projects Section** – Showcases projects with images and links  
-- ✅ **Certifications Section** – Highlights achievements  
-- ✅ **Modern UI** – Clean, minimal, and user-friendly design  
-- ✅ **Contact Form** – Email integration for easy communication  
+- **Responsive Design** – Works on mobile, tablet, and desktop  
+- **Smooth Animations** – Clean scroll effects and transitions  
+- **Projects Section** – Showcases projects with images and links  
+- **Certifications Section** – Highlights achievements  
+- **Modern UI** – Clean, minimal, and user-friendly design  
+- **Contact Form** – Email integration for easy communication  
 
 ---
 
