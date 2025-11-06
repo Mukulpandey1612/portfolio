@@ -104,7 +104,7 @@ let swiperPortfolio = new Swiper(".portfolio-container", {
 
 /*=============== TYPED JS (FOR DYNAMIC SUBTITLE) ===============*/
 const typed = new Typed('#typed-subtitle', {
-    strings: ['Aspiring Software Developer', 'Java Programming', 'Problem Solving'],
+    strings: ['Aspiring Software Engineer', 'Java Programming', 'Problem Solving'],
     typeSpeed: 70,
     backSpeed: 50,
     backDelay: 2000,
